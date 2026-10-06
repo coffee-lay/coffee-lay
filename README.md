@@ -51,6 +51,6 @@ Developer("Кирилл").say_hello()
 
 ## 📈 Статистика
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ВАШ_ЛОГИН&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=coffee-lay&theme=radical)
 
-![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=ВАШ_ЛОГИН&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=coffee-lay&layout=compact&theme=radical)
