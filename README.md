@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Привет, я Кирилл!</h1>
+  <h3>🎓 Студент ITMO && 💻 Разработчик</h3>
+</div>
 
-<!--
-**coffee-lay/coffee-lay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Код — это способ превращать идеи в работающие штуки.
 
-Here are some ideas to get you started:
+## 🏆 Достижения
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Поступил в ITMO на направление Software Engineering
+- 🐍 Пишу на Python и создаю свои первые проекты
+- 🚀 Создал свой первый публичный репозиторий
+- 🤝 Участвую в командных проектах
+- 📚 Постоянно учусь новому
+
+---
+
+## 💻 Технологический стек
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 📊 Мои навыки
+
+| Язык   | Уровень   | Чем занимаюсь                |
+| ------ | --------- | ---------------------------- |
+| C      | Только база | Знакомлюсь с основами      |
+| C++    | Только база | Знакомлюсь с основами      |
+| Python | Уверенный | Скрипты и небольшие проекты  |
+
+## 🚀 Пример кода
+
+```python
+class Developer:
+    def __init__(self, name):
+        self.name = name
+        self.skills = ["Python", "C", "C++"]
+
+    def say_hello(self):
+        print(f"Hello, I'm {self.name}! Always learning 🚀")
+
+
+Developer("Кирилл").say_hello()
+```
+
+## 📫 Связаться со мной
+
+- [Telegram](https://t.me/coffeelay)
+- [Email](mailto:kirilldmitrievich646@gmail.com)
+
+## 📈 Статистика
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ВАШ_ЛОГИН&theme=radical)
+
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=ВАШ_ЛОГИН&layout=compact&theme=radical)
